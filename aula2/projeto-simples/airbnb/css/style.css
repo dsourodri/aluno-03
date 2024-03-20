@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "Arial";
+}
+
+main {
+    width: 80%;
+    margin: 0 auto;
+    padding-top: 100px;
+}
+
+.box-title {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.box-title h1 {
+    font-size: 1.6rem;
+}
+
+.box-buttons {
+    display: flex;
+}
+
+.box-button {
+    display: flex;
+    align-items: center;
+    margin-left: 30px;
+
+}
+
+.box-button a {
+    margin-left: 6px;
+    font-size: ;
+}
